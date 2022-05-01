@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "c69bcddc022a77ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8e6c588ac061339",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5adecf2e7f8195a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c307f93e3e5ca0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "652e912b2e4899b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "197fb48e41270359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ReplaySubject ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25a262680a7e8fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d936deebb6685d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a460a51dec646ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e8e6c588ac061339",
+  "lastOpenFiles": [
+    "Concurrency/Parrallelization.md",
+    "Concurrency/Concurrency Introduction.md",
+    "Concurrency/Observe On.md",
+    "Concurrency/Schedulers.md",
+    "Multicasting Replaying and caching/Multicasting, Replaying and Caching.md",
+    "Multicasting Replaying and caching/Subjects.md",
+    "operator/Utility Operator.md",
+    "Flowable And BackPressure/Flowable  creation using generate.md",
+    "Flowable And BackPressure/Flowable Introduction.md",
+    "Flowable And BackPressure/BackPressure Strategy.md"
+  ]
+}
