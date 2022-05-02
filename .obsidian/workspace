@@ -4,33 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8a12140dbe40f18a",
-        "type": "split",
-        "children": [
-          {
-            "id": "26578b6cf179138c",
-            "type": "leaf",
-            "dimension": 19.821605550049554,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rxjava mindmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d879981038e52f0",
-            "type": "leaf",
-            "dimension": 80.17839444995045,
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "ba4f16134a2e9af2",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -103,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d879981038e52f0",
+  "active": "ba4f16134a2e9af2",
   "lastOpenFiles": [
-    "rxjava mindmap.md",
     "operator/combining observables.md",
-    "operator/Transformation Operator.md",
-    "operator/Utility Operator.md",
+    "operator/Conditional Operator.md",
+    "operator/Error Recovery Operator.md",
     "operator/Operator.md",
     "operator/Reducing Operator.md",
+    "rxjava mindmap.md",
+    "operator/Transformation Operator.md",
+    "operator/Utility Operator.md",
     "operator/Suppressing Operator.md",
-    "operator/Error Recovery Operator.md",
-    "operator/Conditional Operator.md",
     "operator/Action Operator.md"
   ]
 }
